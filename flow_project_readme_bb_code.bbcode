@@ -1,1 +1,45 @@
 It was a time of plenty, it was a time of famine
+
+[color=#232629][size=2][font=-apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif]Background:
+[/font][/size][/color]
+[ul]
+[li][color=#232629][size=2][font=-apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif]Drupal 8[/font][/size][/color][/li]
+[/ul]
+[ol]
+[li][color=#232629][size=2][font=-apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif]Managing dependencies with compose[/font][/size][/color][/li]
+[/ol]
+[color=#232629][size=2][font=-apple-system, BlinkMacSystemFont, Segoe UI Adjusted, Segoe UI, Liberation Sans, sans-serif][url=https://drupal.stackexchange.com/questions/251345/how-do-i-apply-a-patch-with-composer-workflow]mhhh[/url][/font][/size][/color]
+[img=50x50]https://cdn.sstatic.net/Img/teams/teams-illo-free-sidebar-promo.svg?v=47faa659a05e[/img]
+[code]sdfs[/code]
+
+[color=#232629][size=2][font=-apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif]I want to apply one patch to 
+[/font][/size][/color]
+[code]vendor/behat/web_api_extension[/code]
+[color=#232629][size=2][font=-apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif] project.
+I tried with this in 
+[/font][/size][/color]
+[code]composer.json[/code]
+[color=#232629][size=2][font=-apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif] but it doesn't works or no error.
+[/font][/size][/color]
+[code]"extra": {
+    "enable-patching": true,
+    "patches": {
+        "drupal/better_formats": {
+           "Settings have no affect on the field if it is in a Paragraph bundle - https://www.drupal.org/node/2754029": "https://www.drupal.org/files/issues/better_formats_paragraphs-2754029-15.patch"
+        },
+        "vendor/behat/web-api-extension": {
+            "behat web api definition conflicts with mink extensions": "patches/behat_web_api/alter-definitions-text.patch"
+        }
+    }
+}[/code]
+[left][center][color=#232629][size=2][font=-apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif][url=https://drupal.stackexchange.com/questions/tagged/8][color=var(--theme-tag-color)]8[/color][/url][/font][/size][/color][/center]
+[center][color=#232629][size=2][font=-apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif][url=https://drupal.stackexchange.com/questions/tagged/composer][color=var(--theme-tag-color)]composer[/color][/url][/font][/size][/color][/center]
+[center][color=#232629][size=2][font=-apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif][url=https://drupal.stackexchange.com/questions/tagged/testing][color=var(--theme-tag-color)]testing[/color][/url][/font][/size][/color][/center]
+[/left]
+[color=#232629][size=2][font=-apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif][url=https://drupal.stackexchange.com/q/226598][color=var(--black-500)]Share[/color][/url]
+[url=https://drupal.stackexchange.com/posts/226598/edit][color=var(--black-500)]Improve this question[/color][/url]
+[color=var(--black-500)]Follow[/color]
+[color=var(--black-500)][url=https://drupal.stackexchange.com/posts/226598/revisions][color=var(--theme-link-color)]edited Feb 22, 2018 at 16:56[/color][/url]
+[url=https://drupal.stackexchange.com/users/28394/baikho][color=var(--theme-link-color)][img=32x32]https://i.stack.imgur.com/8j5ib.jpg?s=64&g=1[/img][/color][/url]
+[url=https://drupal.stackexchange.com/users/28394/baikho][color=var(--theme-link-color)]baikho[/color][/url]
+[b]1,438[/b][color=var(--black-400)]12[/color]12 silver badges[color=var(--black-400)]24[/color][/color][/font][/size][/color]

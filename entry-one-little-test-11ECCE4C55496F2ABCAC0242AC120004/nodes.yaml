@@ -1,55 +1,55 @@
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87EC21E3BD0B5D40242AC120005
+    node_guid: 11ECD87ED13E7D6EB5D40242AC120005
     parent_guid: null
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: Document
     node_attributes: {  }
     node_words: null
-    node_created_at_ts: 1653079947
+    node_created_at_ts: 1653079972
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87EC21EB8B2B5D40242AC120005
-    parent_guid: 11ECD87EC21E3BD0B5D40242AC120005
+    node_guid: 11ECD87ED13F08F8B5D40242AC120005
+    parent_guid: 11ECD87ED13E7D6EB5D40242AC120005
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
     node_attributes: {  }
-    node_words: '[left][s]Strike Me '
-    node_created_at_ts: 1653079947
+    node_words: '[s]Strike Me '
+    node_created_at_ts: 1653079972
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87EC21F386EB5D40242AC120005
-    parent_guid: 11ECD87EC21E3BD0B5D40242AC120005
+    node_guid: 11ECD87ED13F8787B5D40242AC120005
+    parent_guid: 11ECD87ED13E7D6EB5D40242AC120005
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: b
     node_attributes: {  }
     node_words: null
-    node_created_at_ts: 1653079947
+    node_created_at_ts: 1653079972
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87EC21F9B24B5D40242AC120005
-    parent_guid: 11ECD87EC21F386EB5D40242AC120005
+    node_guid: 11ECD87ED1400859B5D40242AC120005
+    parent_guid: 11ECD87ED13F8787B5D40242AC120005
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
     node_attributes: {  }
     node_words: down
-    node_created_at_ts: 1653079947
+    node_created_at_ts: 1653079972
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87EC22006CEB5D40242AC120005
-    parent_guid: 11ECD87EC21E3BD0B5D40242AC120005
+    node_guid: 11ECD87ED1408378B5D40242AC120005
+    parent_guid: 11ECD87ED13E7D6EB5D40242AC120005
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
     node_attributes: {  }
-    node_words: '[/s][/left]'
-    node_created_at_ts: 1653079947
+    node_words: '[/s]'
+    node_created_at_ts: 1653079972
     node_updated_at_ts: null

@@ -1,55 +1,33 @@
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87B507DDA70B5D40242AC120005
+    node_guid: 11ECD87CAD6DA443B5D40242AC120005
     parent_guid: null
     flow_tag_guid: 11ECCE47EC3D590CBCAC0242AC120004
     flow_applied_tag_guid: null
     bb_tag_name: Document
     node_attributes: {  }
     node_words: null
-    node_created_at_ts: 1653078468
+    node_created_at_ts: 1653079053
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87B5080128DB5D40242AC120005
-    parent_guid: 11ECD87B507DDA70B5D40242AC120005
-    flow_tag_guid: null
-    flow_applied_tag_guid: null
-    bb_tag_name: b
-    node_attributes: {  }
-    node_words: null
-    node_created_at_ts: 1653078468
-    node_updated_at_ts: null
--
-    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87B50808224B5D40242AC120005
-    parent_guid: 11ECD87B5080128DB5D40242AC120005
+    node_guid: 11ECD87CAD6FA3ADB5D40242AC120005
+    parent_guid: 11ECD87CAD6DA443B5D40242AC120005
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
     node_attributes: {  }
-    node_words: 'Hello [s]there1[/s]'
-    node_created_at_ts: 1653078468
+    node_words: "[left]\nleft\n[right]right[/right]\n[/left]\n\n\n"
+    node_created_at_ts: 1653079053
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87B508106FFB5D40242AC120005
-    parent_guid: 11ECD87B507DDA70B5D40242AC120005
-    flow_tag_guid: null
-    flow_applied_tag_guid: null
-    bb_tag_name: text
-    node_attributes: {  }
-    node_words: "\n\n"
-    node_created_at_ts: 1653078468
-    node_updated_at_ts: null
--
-    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87B508169E9B5D40242AC120005
-    parent_guid: 11ECD87B507DDA70B5D40242AC120005
+    node_guid: 11ECD87CAD700A77B5D40242AC120005
+    parent_guid: 11ECD87CAD6DA443B5D40242AC120005
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: flow_tag
     node_attributes: { flow_tag: '', tag: 11ECCE47EC3D590CBCAC0242AC120004 }
     node_words: null
-    node_created_at_ts: 1653078468
+    node_created_at_ts: 1653079053
     node_updated_at_ts: null

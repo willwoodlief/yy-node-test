@@ -1,55 +1,88 @@
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87ED13E7D6EB5D40242AC120005
+    node_guid: 11ECD87F062648A1B5D40242AC120005
     parent_guid: null
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: Document
     node_attributes: {  }
     node_words: null
-    node_created_at_ts: 1653079972
+    node_created_at_ts: 1653080061
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87ED13F08F8B5D40242AC120005
-    parent_guid: 11ECD87ED13E7D6EB5D40242AC120005
+    node_guid: 11ECD87F0626C5B5B5D40242AC120005
+    parent_guid: 11ECD87F062648A1B5D40242AC120005
     flow_tag_guid: null
     flow_applied_tag_guid: null
-    bb_tag_name: text
-    node_attributes: {  }
-    node_words: '[s]Strike Me '
-    node_created_at_ts: 1653079972
-    node_updated_at_ts: null
--
-    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87ED13F8787B5D40242AC120005
-    parent_guid: 11ECD87ED13E7D6EB5D40242AC120005
-    flow_tag_guid: null
-    flow_applied_tag_guid: null
-    bb_tag_name: b
-    node_attributes: {  }
+    bb_tag_name: size
+    node_attributes: { size: '18' }
     node_words: null
-    node_created_at_ts: 1653079972
+    node_created_at_ts: 1653080061
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87ED1400859B5D40242AC120005
-    parent_guid: 11ECD87ED13F8787B5D40242AC120005
+    node_guid: 11ECD87F06272EA6B5D40242AC120005
+    parent_guid: 11ECD87F0626C5B5B5D40242AC120005
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
     node_attributes: {  }
-    node_words: down
-    node_created_at_ts: 1653079972
+    node_words: 'Sizes are big '
+    node_created_at_ts: 1653080061
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87ED1408378B5D40242AC120005
-    parent_guid: 11ECD87ED13E7D6EB5D40242AC120005
+    node_guid: 11ECD87F06278169B5D40242AC120005
+    parent_guid: 11ECD87F062648A1B5D40242AC120005
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: size
+    node_attributes: { size: '24' }
+    node_words: null
+    node_created_at_ts: 1653080061
+    node_updated_at_ts: null
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECD87F0627E3E3B5D40242AC120005
+    parent_guid: 11ECD87F06278169B5D40242AC120005
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
     node_attributes: {  }
-    node_words: '[/s]'
-    node_created_at_ts: 1653079972
+    node_words: bigger
+    node_created_at_ts: 1653080061
+    node_updated_at_ts: null
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECD87F062839B9B5D40242AC120005
+    parent_guid: 11ECD87F062648A1B5D40242AC120005
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: text
+    node_attributes: {  }
+    node_words: '&nbsp;'
+    node_created_at_ts: 1653080061
+    node_updated_at_ts: null
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECD87F062886DFB5D40242AC120005
+    parent_guid: 11ECD87F062648A1B5D40242AC120005
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: size
+    node_attributes: { size: '48' }
+    node_words: null
+    node_created_at_ts: 1653080061
+    node_updated_at_ts: null
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECD87F0628D5E6B5D40242AC120005
+    parent_guid: 11ECD87F062886DFB5D40242AC120005
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: text
+    node_attributes: {  }
+    node_words: biggest
+    node_created_at_ts: 1653080061
     node_updated_at_ts: null

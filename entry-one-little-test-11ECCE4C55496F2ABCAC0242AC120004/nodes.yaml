@@ -1,33 +1,55 @@
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87CAD6DA443B5D40242AC120005
+    node_guid: 11ECD87D6969001FB5D40242AC120005
     parent_guid: null
-    flow_tag_guid: 11ECCE47EC3D590CBCAC0242AC120004
+    flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: Document
     node_attributes: {  }
     node_words: null
-    node_created_at_ts: 1653079053
+    node_created_at_ts: 1653079369
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87CAD6FA3ADB5D40242AC120005
-    parent_guid: 11ECD87CAD6DA443B5D40242AC120005
+    node_guid: 11ECD87D6969A992B5D40242AC120005
+    parent_guid: 11ECD87D6969001FB5D40242AC120005
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: b
+    node_attributes: {  }
+    node_words: null
+    node_created_at_ts: 1653079369
+    node_updated_at_ts: null
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECD87D696A2DC7B5D40242AC120005
+    parent_guid: 11ECD87D6969A992B5D40242AC120005
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
     node_attributes: {  }
-    node_words: "[left]\nleft\n[right]right[/right]\n[/left]\n\n\n"
-    node_created_at_ts: 1653079053
+    node_words: 'Hello '
+    node_created_at_ts: 1653079369
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECD87CAD700A77B5D40242AC120005
-    parent_guid: 11ECD87CAD6DA443B5D40242AC120005
+    node_guid: 11ECD87D696AABA3B5D40242AC120005
+    parent_guid: 11ECD87D6969A992B5D40242AC120005
     flow_tag_guid: null
     flow_applied_tag_guid: null
-    bb_tag_name: flow_tag
-    node_attributes: { flow_tag: '', tag: 11ECCE47EC3D590CBCAC0242AC120004 }
+    bb_tag_name: u
+    node_attributes: {  }
     node_words: null
-    node_created_at_ts: 1653079053
+    node_created_at_ts: 1653079369
+    node_updated_at_ts: null
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECD87D696B6F87B5D40242AC120005
+    parent_guid: 11ECD87D696AABA3B5D40242AC120005
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: text
+    node_attributes: {  }
+    node_words: there
+    node_created_at_ts: 1653079369
     node_updated_at_ts: null

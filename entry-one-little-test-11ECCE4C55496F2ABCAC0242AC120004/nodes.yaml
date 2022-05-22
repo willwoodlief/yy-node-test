@@ -33,25 +33,14 @@
     node_updated_at_ts: 1653250494
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA126929FAF5B5D40242AC120005
+    node_guid: 11ECDA148CD99303B5D40242AC120005
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000C
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA126929FAF5B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA148CD99303B5D40242AC120005 }
     node_words: net-shell
-    node_created_at_ts: 1653253315
-    node_updated_at_ts: null
--
-    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA12692AB9D2B5D40242AC120005
-    parent_guid: 11ECAB1C4A66030FBB3B0242AC12000B
-    flow_tag_guid: null
-    flow_applied_tag_guid: null
-    bb_tag_name: text
-    node_attributes: { guid: 11ECDA12692AB9D2B5D40242AC120005 }
-    node_words: "\n"
-    node_created_at_ts: 1653253315
+    node_created_at_ts: 1653254233
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
@@ -66,25 +55,14 @@
     node_updated_at_ts: 1653253026
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA12692B97C8B5D40242AC120005
+    node_guid: 11ECDA148CDAC7ACB5D40242AC120005
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000B
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA12692B97C8B5D40242AC120005 }
-    node_words: "\n\n\n\n\nSample text!\_\nNew line\n\n"
-    node_created_at_ts: 1653253315
-    node_updated_at_ts: null
--
-    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA12692C1529B5D40242AC120005
-    parent_guid: 11ECD8F9FDDEA6E1B5D40242AC120005
-    flow_tag_guid: null
-    flow_applied_tag_guid: null
-    bb_tag_name: text
-    node_attributes: { guid: 11ECDA12692C1529B5D40242AC120005 }
-    node_words: "\n"
-    node_created_at_ts: 1653253315
+    node_attributes: { guid: 11ECDA148CDAC7ACB5D40242AC120005 }
+    node_words: "\n\n\n\n\n\nSample text!\_\nNew line\n\n"
+    node_created_at_ts: 1653254233
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004

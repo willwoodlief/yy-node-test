@@ -22,25 +22,25 @@
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA003B19C7D2B5D40242AC120005
+    node_guid: 11ECDA00616EE786B5D40242AC120005
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000B
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA003B19C7D2B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA00616EE786B5D40242AC120005 }
     node_words: 'Sample text!'
-    node_created_at_ts: 1653245506
+    node_created_at_ts: 1653245571
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA003B1A78FDB5D40242AC120005
+    node_guid: 11ECDA00616F6EA3B5D40242AC120005
     parent_guid: 11ECD8F9FDDEA6E1B5D40242AC120005
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA003B1A78FDB5D40242AC120005 }
+    node_attributes: { guid: 11ECDA00616F6EA3B5D40242AC120005 }
     node_words: "\n"
-    node_created_at_ts: 1653245506
+    node_created_at_ts: 1653245571
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
@@ -55,21 +55,10 @@
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA003B1D3D57B5D40242AC120005
-    parent_guid: 11ECAB1C4A66030FBB3B0242AC12000A
-    flow_tag_guid: null
-    flow_applied_tag_guid: null
-    bb_tag_name: text
-    node_attributes: { guid: 11ECDA003B1D3D57B5D40242AC120005 }
-    node_words: "In\_a "
-    node_created_at_ts: 1653245506
-    node_updated_at_ts: null
--
-    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECAB1C4A66030FBB3B0242AC12000C
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000A
-    flow_tag_guid: null
-    flow_applied_tag_guid: null
+    flow_tag_guid: 11ECCBC3A3EA652EBCAC0242AC120004
+    flow_applied_tag_guid: 11ECDA0061781098B5D40242AC120005
     bb_tag_name: u
     node_attributes: { guid: 11ECAB1C4A66030FBB3B0242AC12000C }
     node_words: null
@@ -77,23 +66,34 @@
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA003B1E7B86B5D40242AC120005
+    node_guid: 11ECDA00619BEDB1B5D40242AC120005
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000C
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA003B1E7B86B5D40242AC120005 }
-    node_words: net-shell
-    node_created_at_ts: 1653245506
+    node_attributes: { guid: 11ECDA00619BEDB1B5D40242AC120005 }
+    node_words: "net-shell\n"
+    node_created_at_ts: 1653245571
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA003B1F1B30B5D40242AC120005
+    node_guid: 11ECDA00619C8113B5D40242AC120005
+    parent_guid: 11ECAB1C4A66030FBB3B0242AC12000C
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: flow_tag
+    node_attributes: { flow_tag: '', tag: 11ECCBC3A3EA652EBCAC0242AC120004, guid: 11ECDA00619C8113B5D40242AC120005 }
+    node_words: null
+    node_created_at_ts: 1653245571
+    node_updated_at_ts: null
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECDA00619CFD75B5D40242AC120005
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000A
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA003B1F1B30B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA00619CFD75B5D40242AC120005 }
     node_words: "\n"
-    node_created_at_ts: 1653245506
+    node_created_at_ts: 1653245571
     node_updated_at_ts: null

@@ -3,401 +3,427 @@
     node_guid: 11ECD8F9FDDEA6E1B5D40242AC120005
     parent_guid: null
     child_position: null
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: Document
     node_attributes: { guid: 11ECD8F9FDDEA6E1B5D40242AC120005 }
     node_words: null
     node_created_at_ts: 1653132875
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECAB1C4A66030FBB3B0242AC12000B
     parent_guid: 11ECD8F9FDDEA6E1B5D40242AC120005
     child_position: 0
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: center
     node_attributes: { guid: 11ECAB1C4A66030FBB3B0242AC12000B }
     node_words: null
     node_created_at_ts: 1653222677
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECAB1C4A66030FBB3B0242AC12000C
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000B
     child_position: 0
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: u
     node_attributes: { guid: 11ECAB1C4A66030FBB3B0242AC12000C }
     node_words: null
     node_created_at_ts: 1653222677
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84E7E7E3B5D40242AC120005
+    node_guid: 11ECDA4B21396392B5D40242AC120005
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000C
     child_position: 0
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84E7E7E3B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B21396392B5D40242AC120005 }
     node_words: net-shell
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84E86FE7B5D40242AC120005
+    node_guid: 11ECDA4B2139CA64B5D40242AC120005
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000B
     child_position: 1
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84E86FE7B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B2139CA64B5D40242AC120005 }
     node_words: "\n"
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDA1199F44F0DB5D40242AC120005
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000B
     child_position: 2
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: hr
     node_attributes: { guid: 11ECDA1199F44F0DB5D40242AC120005 }
     node_words: null
     node_created_at_ts: 1653252967
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84F1C5DEB5D40242AC120005
+    node_guid: 11ECDA4B213ABEAAB5D40242AC120005
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000B
     child_position: 3
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84F1C5DEB5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B213ABEAAB5D40242AC120005 }
     node_words: "\n"
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
+    node_updated_at_ts: null
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECDA4B213B41B2B5D40242AC120005
+    parent_guid: 11ECAB1C4A66030FBB3B0242AC12000B
+    child_position: 4
+    lot_number: 6
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: size
+    node_attributes: { size: '48', guid: 11ECDA4B213B41B2B5D40242AC120005 }
+    node_words: null
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDA4A655B0E01B5D40242AC120005
-    parent_guid: 11ECAB1C4A66030FBB3B0242AC12000B
-    child_position: 4
-    lot_number: 5
+    parent_guid: 11ECDA4B213B41B2B5D40242AC120005
+    child_position: 0
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: color
     node_attributes: { color: '#9a00b2', guid: 11ECDA4A655B0E01B5D40242AC120005 }
     node_words: null
     node_created_at_ts: 1653277360
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84F2ED35B5D40242AC120005
+    node_guid: 11ECDA4B213C4BFEB5D40242AC120005
     parent_guid: 11ECDA4A655B0E01B5D40242AC120005
     child_position: 0
-    lot_number: 5
-    flow_tag_guid: null
-    flow_applied_tag_guid: null
-    bb_tag_name: size
-    node_attributes: { size: '162', guid: 11ECDA4A84F2ED35B5D40242AC120005 }
-    node_words: null
-    node_created_at_ts: 1653277413
-    node_updated_at_ts: null
--
-    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84F35C3FB5D40242AC120005
-    parent_guid: 11ECDA4A84F2ED35B5D40242AC120005
-    child_position: 0
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84F35C3FB5D40242AC120005 }
-    node_words: ZYample
-    node_created_at_ts: 1653277413
+    node_attributes: { guid: 11ECDA4B213C4BFEB5D40242AC120005 }
+    node_words: "ZYample\_"
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84F3C0F5B5D40242AC120005
+    node_guid: 11ECDA4B213CBFEAB5D40242AC120005
+    parent_guid: 11ECDA4B213B41B2B5D40242AC120005
+    child_position: 1
+    lot_number: 6
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: color
+    node_attributes: { color: '#ff851b', guid: 11ECDA4B213CBFEAB5D40242AC120005 }
+    node_words: null
+    node_created_at_ts: 1653277675
+    node_updated_at_ts: null
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECDA4B213D26CDB5D40242AC120005
+    parent_guid: 11ECDA4B213CBFEAB5D40242AC120005
+    child_position: 0
+    lot_number: 6
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: text
+    node_attributes: { guid: 11ECDA4B213D26CDB5D40242AC120005 }
+    node_words: text
+    node_created_at_ts: 1653277675
+    node_updated_at_ts: null
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECDA4B213D8466B5D40242AC120005
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000B
     child_position: 5
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84F3C0F5B5D40242AC120005 }
-    node_words: "&nbsp;text!\_\n\nNew line\n\n"
-    node_created_at_ts: 1653277413
+    node_attributes: { guid: 11ECDA4B213D8466B5D40242AC120005 }
+    node_words: "!\_\n\nNew line\n\n"
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84F424D0B5D40242AC120005
+    node_guid: 11ECDA4B213DED03B5D40242AC120005
     parent_guid: 11ECD8F9FDDEA6E1B5D40242AC120005
     child_position: 1
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84F424D0B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B213DED03B5D40242AC120005 }
     node_words: "\n"
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECAB1C4A66030FBB3B0242AC12000A
     parent_guid: 11ECD8F9FDDEA6E1B5D40242AC120005
     child_position: 2
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: center
     node_attributes: { guid: 11ECAB1C4A66030FBB3B0242AC12000A }
     node_words: null
     node_created_at_ts: 1653222677
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDA0BD7FC2C54B5D40242AC120005
     parent_guid: 11ECAB1C4A66030FBB3B0242AC12000A
     child_position: 0
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: u
     node_attributes: { guid: 11ECDA0BD7FC2C54B5D40242AC120005 }
     node_words: null
     node_created_at_ts: 1653250494
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDA0BD7FC90C9B5D40242AC120005
     parent_guid: 11ECDA0BD7FC2C54B5D40242AC120005
     child_position: 0
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: 11ECCBC3A3EA652EBCAC0242AC120004
     flow_applied_tag_guid: 11ECDA0BD7FD62AEB5D40242AC120005
     bb_tag_name: flow_tag
     node_attributes: { tag: 11ECCBC3A3EA652EBCAC0242AC120004, guid: 11ECDA0BD7FC90C9B5D40242AC120005 }
     node_words: null
     node_created_at_ts: 1653250494
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84F6C786B5D40242AC120005
+    node_guid: 11ECDA4B2140DA30B5D40242AC120005
     parent_guid: 11ECD8F9FDDEA6E1B5D40242AC120005
     child_position: 3
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84F6C786B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B2140DA30B5D40242AC120005 }
     node_words: "\n\n"
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDA4A655E41BAB5D40242AC120005
     parent_guid: 11ECD8F9FDDEA6E1B5D40242AC120005
     child_position: 4
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: ul
     node_attributes: { guid: 11ECDA4A655E41BAB5D40242AC120005 }
     node_words: null
     node_created_at_ts: 1653277360
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84F7946EB5D40242AC120005
+    node_guid: 11ECDA4B2141A399B5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
     child_position: 0
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84F7946EB5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B2141A399B5D40242AC120005 }
     node_words: "\n"
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDA4A655F0478B5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
     child_position: 1
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: li
     node_attributes: { guid: 11ECDA4A655F0478B5D40242AC120005 }
     node_words: null
     node_created_at_ts: 1653277360
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84F86F20B5D40242AC120005
+    node_guid: 11ECDA4B214317F9B5D40242AC120005
     parent_guid: 11ECDA4A655F0478B5D40242AC120005
     child_position: 0
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84F86F20B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B214317F9B5D40242AC120005 }
     node_words: one
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84F8D847B5D40242AC120005
+    node_guid: 11ECDA4B2143A62AB5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
     child_position: 2
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84F8D847B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B2143A62AB5D40242AC120005 }
     node_words: "\n"
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDA4A6560123CB5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
     child_position: 3
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: li
     node_attributes: { guid: 11ECDA4A6560123CB5D40242AC120005 }
     node_words: null
     node_created_at_ts: 1653277360
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84FAF25CB5D40242AC120005
+    node_guid: 11ECDA4B214F8EE5B5D40242AC120005
     parent_guid: 11ECDA4A6560123CB5D40242AC120005
     child_position: 0
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84FAF25CB5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B214F8EE5B5D40242AC120005 }
     node_words: two
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84FB64A4B5D40242AC120005
+    node_guid: 11ECDA4B21503C1BB5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
     child_position: 4
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84FB64A4B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B21503C1BB5D40242AC120005 }
     node_words: "\n"
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDA4A6560F0D7B5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
     child_position: 5
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: li
     node_attributes: { guid: 11ECDA4A6560F0D7B5D40242AC120005 }
     node_words: null
     node_created_at_ts: 1653277360
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A84FC2CF4B5D40242AC120005
+    node_guid: 11ECDA4B215E6F39B5D40242AC120005
     parent_guid: 11ECDA4A6560F0D7B5D40242AC120005
     child_position: 0
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A84FC2CF4B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B215E6F39B5D40242AC120005 }
     node_words: heeh
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A8501F21CB5D40242AC120005
+    node_guid: 11ECDA4B215EF873B5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
     child_position: 6
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A8501F21CB5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B215EF873B5D40242AC120005 }
     node_words: "\n"
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDA4A6567931EB5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
     child_position: 7
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: li
     node_attributes: { guid: 11ECDA4A6567931EB5D40242AC120005 }
     node_words: null
     node_created_at_ts: 1653277360
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDA4A6567FECDB5D40242AC120005
     parent_guid: 11ECDA4A6567931EB5D40242AC120005
     child_position: 0
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: img
     node_attributes: { img: 75x100, guid: 11ECDA4A6567FECDB5D40242AC120005 }
     node_words: null
     node_created_at_ts: 1653277360
-    node_updated_at_ts: 1653277413
+    node_updated_at_ts: 1653277675
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A850ABCA2B5D40242AC120005
+    node_guid: 11ECDA4B2160543CB5D40242AC120005
     parent_guid: 11ECDA4A6567FECDB5D40242AC120005
     child_position: 0
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A850ABCA2B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B2160543CB5D40242AC120005 }
     node_words: 'https://preview.redd.it/94rerc3fd0191.jpg?width=578&auto=webp&s=8ed8aa5d1ef54632253bc910ee1fb77239d9e249'
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A850B11B9B5D40242AC120005
+    node_guid: 11ECDA4B2160E4BCB5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
     child_position: 8
-    lot_number: 5
+    lot_number: 6
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDA4A850B11B9B5D40242AC120005 }
+    node_attributes: { guid: 11ECDA4B2160E4BCB5D40242AC120005 }
     node_words: "\n"
-    node_created_at_ts: 1653277413
+    node_created_at_ts: 1653277675
     node_updated_at_ts: null

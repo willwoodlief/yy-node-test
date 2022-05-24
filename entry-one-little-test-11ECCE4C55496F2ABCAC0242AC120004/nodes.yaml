@@ -231,19 +231,8 @@
     node_created_at_ts: 1653291280
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA6ACE2B4C69B5D40242AC120005
-    parent_guid: 11ECDA6ACE2AF20FB5D40242AC120005
-    child_position: 0
-    flow_tag_guid: null
-    flow_applied_tag_guid: null
-    bb_tag_name: color
-    node_attributes: { color: '#e82a1f', guid: 11ECDA6ACE2B4C69B5D40242AC120005 }
-    node_words: null
-    node_created_at_ts: 1653291280
--
-    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDA6ACE2BA2FFB5D40242AC120005
-    parent_guid: 11ECDA6ACE2B4C69B5D40242AC120005
+    parent_guid: 11ECDA6ACE2AF20FB5D40242AC120005
     child_position: 0
     flow_tag_guid: null
     flow_applied_tag_guid: null
@@ -264,15 +253,48 @@
     node_created_at_ts: 1653291280
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDB9CA1285CD5B5D40242AC120005
+    node_guid: 11ECDBA24175D77EB5D40242AC120005
     parent_guid: 11ECDA6ACE2BFF74B5D40242AC120005
     child_position: 0
     flow_tag_guid: null
     flow_applied_tag_guid: null
+    bb_tag_name: color
+    node_attributes: { color: '#e82a1f', guid: 11ECDBA24175D77EB5D40242AC120005 }
+    node_words: null
+    node_created_at_ts: 1653425047
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECDBA241764BBBB5D40242AC120005
+    parent_guid: 11ECDBA24175D77EB5D40242AC120005
+    child_position: 0
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDB9CA1285CD5B5D40242AC120005 }
-    node_words: a
-    node_created_at_ts: 1653422630
+    node_attributes: { guid: 11ECDBA241764BBBB5D40242AC120005 }
+    node_words: 'a '
+    node_created_at_ts: 1653425047
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECDBA24176A7B6B5D40242AC120005
+    parent_guid: 11ECDA6ACE2BFF74B5D40242AC120005
+    child_position: 1
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: color
+    node_attributes: { color: '#0074d9', guid: 11ECDBA24176A7B6B5D40242AC120005 }
+    node_words: null
+    node_created_at_ts: 1653425047
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECDBA241771A73B5D40242AC120005
+    parent_guid: 11ECDBA24176A7B6B5D40242AC120005
+    child_position: 0
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: text
+    node_attributes: { guid: 11ECDBA241771A73B5D40242AC120005 }
+    node_words: B
+    node_created_at_ts: 1653425047
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDB9CA128FB9DB5D40242AC120005
@@ -968,9 +990,53 @@
     node_created_at_ts: 1653422633
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDA4A6560F0D7B5D40242AC120005
+    node_guid: 11ECDBA2427D1F0DB5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
     child_position: 7
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: li
+    node_attributes: { guid: 11ECDBA2427D1F0DB5D40242AC120005 }
+    node_words: null
+    node_created_at_ts: 1653425048
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECDBA2427DA424B5D40242AC120005
+    parent_guid: 11ECDBA2427D1F0DB5D40242AC120005
+    child_position: 0
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: font
+    node_attributes: { font: Georgia, guid: 11ECDBA2427DA424B5D40242AC120005 }
+    node_words: null
+    node_created_at_ts: 1653425048
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECDBA2427E180DB5D40242AC120005
+    parent_guid: 11ECDBA2427DA424B5D40242AC120005
+    child_position: 0
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: text
+    node_attributes: { guid: 11ECDBA2427E180DB5D40242AC120005 }
+    node_words: 'yet another one'
+    node_created_at_ts: 1653425048
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECDB9CA2DA539EB5D40242AC120005
+    parent_guid: 11ECDA4A655E41BAB5D40242AC120005
+    child_position: 8
+    flow_tag_guid: null
+    flow_applied_tag_guid: null
+    bb_tag_name: text
+    node_attributes: { guid: 11ECDB9CA2DA539EB5D40242AC120005 }
+    node_words: "\n"
+    node_created_at_ts: 1653422633
+-
+    flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
+    node_guid: 11ECDA4A6560F0D7B5D40242AC120005
+    parent_guid: 11ECDA4A655E41BAB5D40242AC120005
+    child_position: 9
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: li
@@ -990,20 +1056,20 @@
     node_created_at_ts: 1653422633
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDB9CA2DA539EB5D40242AC120005
+    node_guid: 11ECDB9CA2ECD93BB5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
-    child_position: 8
+    child_position: 10
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDB9CA2DA539EB5D40242AC120005 }
+    node_attributes: { guid: 11ECDB9CA2ECD93BB5D40242AC120005 }
     node_words: "\n"
     node_created_at_ts: 1653422633
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
     node_guid: 11ECDA4A6567931EB5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
-    child_position: 9
+    child_position: 11
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: li
@@ -1034,12 +1100,12 @@
     node_created_at_ts: 1653422633
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
-    node_guid: 11ECDB9CA2ECD93BB5D40242AC120005
+    node_guid: 11ECDBA2428572EBB5D40242AC120005
     parent_guid: 11ECDA4A655E41BAB5D40242AC120005
-    child_position: 10
+    child_position: 12
     flow_tag_guid: null
     flow_applied_tag_guid: null
     bb_tag_name: text
-    node_attributes: { guid: 11ECDB9CA2ECD93BB5D40242AC120005 }
+    node_attributes: { guid: 11ECDBA2428572EBB5D40242AC120005 }
     node_words: "\n"
-    node_created_at_ts: 1653422633
+    node_created_at_ts: 1653425048

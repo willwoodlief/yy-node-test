@@ -392,7 +392,7 @@
     flow_applied_tag_guid: null
     bb_tag_name: text
     node_attributes: { guid: 11ECDB9CA1B7874CB5D40242AC120005 }
-    node_words: 'Bad News Bearr3s'
+    node_words: 'Bad News Bearr4s'
     node_created_at_ts: 1653422631
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
@@ -403,7 +403,7 @@
     flow_applied_tag_guid: null
     bb_tag_name: text
     node_attributes: { guid: 11ECDB9CA1BAF17CB5D40242AC120005 }
-    node_words: '&nbsptwice'
+    node_words: '&nbsp;twice'
     node_created_at_ts: 1653422631
 -
     flow_entry_guid: 11ECCE4C55496F2ABCAC0242AC120004
